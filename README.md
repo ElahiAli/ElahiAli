@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi, this is Ali 👋
 
-<!--
-**ElahiAli/ElahiAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ElahiAli/)
+<br>
+<br>
+<b>My favourite techs: </b>
+<br>
+<br>
+<img alt="Python" title="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" height="34">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img style="display: none" alt="Django" title="Django" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" height="34">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="RestFramework" title="RestFramework" src="https://www.django-rest-framework.org/img/logo.png" height="34">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Mysql" title="Mysql" src="https://www.developer.com/wp-content/uploads/2021/10/MySQL-Database-Tutorials.png" height="34">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Git" title="Git" src="https://1000logos.net/wp-content/uploads/2020/08/Git-Emblem-500x313.jpg" height="34">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Solidiy" title="JavaScript" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" height="34">
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=ElahiAli&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
