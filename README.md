@@ -16,4 +16,6 @@ Hi, this is Ali 👋
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://cdn.icon-icons.com/icons2/2066/PNG/512/git_icon_125271.png" height="40">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Solidiy" title="Solidiy" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" height="34">
+<img alt="Solidiy" title="Solidiy" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" height="34"><br/>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ElahiAli&show_icons=true)
