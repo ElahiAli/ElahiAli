@@ -15,8 +15,8 @@ Hi, this is Ali 👋
 <img alt="Mysql" title="Mysql" src="https://www.developer.com/wp-content/uploads/2021/10/MySQL-Database-Tutorials.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Solidiy" title="Solidiy" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png" height="34"><br/>
+
+
 
 [![AliElahi's github stats](https://github-readme-stats.vercel.app/api?username=ElahiAli&show_icons=true&theme=merko)](https://github.com/ElahiAli/github-readme-stats)
 <br>
