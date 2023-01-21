@@ -1,4 +1,4 @@
-Hi, this is Ali 👋
+## Hi, this is Ali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" />
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ElahiAli/)
 <br>
