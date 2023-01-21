@@ -16,5 +16,7 @@ Hi, this is Ali 👋
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40">
 &nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<br>
 [![AliElahi's github stats](https://github-readme-stats.vercel.app/api?username=ElahiAli&show_icons=true&theme=merko)](https://github.com/ElahiAli/github-readme-stats)
 <br>
