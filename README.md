@@ -6,6 +6,10 @@
 <b>🛠️ Languages and Tools:</b>
 <br>
 <br>
+<img alt="Solidity" title="Solidity" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="36">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img style="display: none" alt="Hardhat" title="Hardhat" src="https://c.gitcoin.co/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg" height="38">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Python" title="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img style="display: none" alt="Django" title="Django" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" height="34">
