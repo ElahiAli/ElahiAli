@@ -22,5 +22,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 ### &#x1f4c8; GitHub Stats
-[![AliElahi's github stats](https://github-readme-stats.vercel.app/api?username=ElahiAli&show_icons=true&theme=merko)](https://github.com/ElahiAli/github-readme-stats)
+[![AliElahi's github stats](https://github-readme-stats.vercel.app/api?username=ElahiAli&show_icons=true&theme=tokyonight)](https://github.com/ElahiAli/github-readme-stats)
 <br>
