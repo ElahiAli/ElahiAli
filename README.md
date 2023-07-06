@@ -16,8 +16,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img style="display: none" alt="Django" title="Django" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="RestFramework" title="RestFramework" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" height="34">
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Mysql" title="Mysql" src="https://www.developer.com/wp-content/uploads/2021/10/MySQL-Database-Tutorials.png" height="34">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40">
